@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aleprajwal
 - 🌱 I’m currently doing Masters of IT specializing in CyberSecurity
-- 💞️ I’m looking to collaborate on Machine Learning/ CyberSecurity Project
+- 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 Reach me at aleprajwal@gmail.com / https://www.linkedin.com/in/aleprajwal
 
 <!---
