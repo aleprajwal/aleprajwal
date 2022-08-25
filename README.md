@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aleprajwal
+- 👋 Hi, I’m Prajwal Ale
 - 🌱 I’m a recent graduate with Master of Information Technology (CyberSecurity)
 - 💞️ I’m looking for a graduate level software developer role
 - 📫 Reach me at aleprajwal@gmail.com / https://www.linkedin.com/in/aleprajwal
