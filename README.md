@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prajwal Ale
-- 🌱 I’m a recent graduate with Master of Information Technology (CyberSecurity)
-- 💞️ I’m looking for a graduate level software developer role
+- 🌱 Graduated with Master of Information Technology (CyberSecurity)
+- 💞 Tech and Coffee
 - 📫 Reach me at aleprajwal@gmail.com / https://www.linkedin.com/in/aleprajwal
 
 <!---
